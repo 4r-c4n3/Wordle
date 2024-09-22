@@ -14,7 +14,7 @@ A simple word-guessing game where the player tries to guess a 5-letter word with
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12.2
 - The following Python libraries are required:
   - `colorama` for colored output
   - `art` for ASCII art
