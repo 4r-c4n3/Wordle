@@ -15,7 +15,13 @@ A simple word-guessing game where the player tries to guess a 5-letter word with
 ## Requirements
 
 - Python 3.x
-- `colorama` library for color formatting:  
-  Install via pip:
-  ```bash
-  pip install colorama
+- The following Python libraries are required:
+  - `colorama` for colored output
+  - `art` for ASCII art
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/word-guessing-game.git
+   cd word-guessing-game
