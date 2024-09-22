@@ -25,5 +25,6 @@ A simple word-guessing game where the player tries to guess a 5-letter word with
    ```bash
    git clone https://github.com/yourusername/word-guessing-game.git
    cd word-guessing-game
+   ```
    pip install -r requirements.txt
    python game.py
