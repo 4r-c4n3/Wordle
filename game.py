@@ -62,3 +62,4 @@ try :
 except KeyboardInterrupt:
 		print("\n\nCaught Keyboard Intruption! " + Fore.RED + 'Quiting program...\n' + Fore.RESET)
 		sys.exit(0)
+print("hello")
